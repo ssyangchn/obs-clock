@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Aclonica&display=swap");
 /* fonts by Google fonts https://fonts.google.com/ */
 :root {
-  --color-main: rgb( 30, 30, 30);
+  --color-main: #2ecc71;
 }
 
 * {
