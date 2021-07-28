@@ -41,6 +41,9 @@ body {
 .time_sep--hh, .time_sep--mi {
   font-size: 2em;
 }
+.yyyymmdd {
+  display: none;
+}
 
 .hh,
 .mi,
